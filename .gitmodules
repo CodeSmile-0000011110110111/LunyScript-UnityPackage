@@ -1,12 +1,12 @@
-[submodule "Runtime/Luny"]
-	path = Runtime/Luny
+[submodule "Luny"]
+	path = Luny
 	url = https://github.com/CodeSmile-0000011110110111/Luny-CSharp
-[submodule "Runtime/LunyScript"]
-	path = Runtime/LunyScript
+[submodule "LunyScript"]
+	path = LunyScript
 	url = https://github.com/CodeSmile-0000011110110111/LunyScript-CSharp
-[submodule "Runtime/Luny.Unity"]
-	path = Runtime/Luny.Unity
+[submodule "Luny.Unity"]
+	path = Luny.Unity
 	url = https://github.com/CodeSmile-0000011110110111/Luny-CSharp-Unity
-[submodule "Runtime/LunyScript.Unity"]
-	path = Runtime/LunyScript.Unity
+[submodule "LunyScript.Unity"]
+	path = LunyScript.Unity
 	url = https://github.com/CodeSmile-0000011110110111/LunyScript-CSharp-Unity
