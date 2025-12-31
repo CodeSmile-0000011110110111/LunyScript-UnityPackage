@@ -4,17 +4,15 @@
   "description": "Cross-Engine Gameplay Programming DSL",
   "version": "0.1.0",
   "unity": "6000.0",
-  "unityRelease": "60f1",
+  "unityRelease": "64f1",
   "author": {
     "name": "Steffen Itterheim aka 'CodeSmile' (Unity MVP, Self-Employed)",
-    "email": "steffen@steffenitterheim.de",
-    "url": "https://github.com/CodeSmile-0000011110110111/LunyScript-Unity"
+    "url": "https://github.com/CodeSmile-0000011110110111/LunyScript-Unity",
+    "email": "steffen@steffenitterheim.de"
   },
   "changelogUrl": "https://github.com/CodeSmile-0000011110110111/LunyScript-Unity/blob/main/CHANGELOG.md",
   "documentationUrl": "https://lunyscript.com",
   "licensesUrl": "https://github.com/CodeSmile-0000011110110111/LunyScript-Unity/tree/main/LICENSE",
-  "dependencies": {
-  },
   "relatedPackages": {},
   "hideInEditor": false
 }
