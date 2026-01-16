@@ -1,15 +1,25 @@
 [submodule "Luny"]
 	path = Luny
+	branch = .
+    update = merge
 	url = https://github.com/CodeSmile-0000011110110111/Luny
 [submodule "LunyScript"]
 	path = LunyScript
+	branch = .
+    update = merge
 	url = https://github.com/CodeSmile-0000011110110111/LunyScript
 [submodule "Luny.Unity"]
 	path = Luny.Unity
+	branch = .
+    update = merge
 	url = https://github.com/CodeSmile-0000011110110111/Luny.Unity
 [submodule "LunyScript.Unity"]
 	path = LunyScript.Unity
+	branch = .
+    update = merge
 	url = https://github.com/CodeSmile-0000011110110111/LunyScript.Unity
 [submodule "LunyLua"]
 	path = LunyLua
+	branch = .
+    update = merge
 	url = https://github.com/CodeSmile-0000011110110111/LunyLua
