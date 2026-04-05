@@ -25,4 +25,6 @@
 	url = https://github.com/CodeSmile-0000011110110111/LunyLua
 [submodule "Documentation~"]
 	path = Documentation~
+	branch = .
 	url = https://github.com/CodeSmile-0000011110110111/Luny-Docs
+    update = merge
